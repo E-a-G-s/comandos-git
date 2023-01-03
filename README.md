@@ -1,6 +1,5 @@
 # Comandos-Git
 
-# Comandos-Git-
 
 ## Configuración Básica
 
